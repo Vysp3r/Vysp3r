@@ -3,7 +3,7 @@
 ## My projects
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) (A simple Wine and Proton-based compatiblity tools manager for GNOME)
 
-## Information
+## Overview
 
 - 🔭 I’m currently working at LABPLAS
 - 🌱 I’m currently learning Rust 
