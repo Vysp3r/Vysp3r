@@ -1,16 +1,14 @@
-### Hi there 👋
+# Vysp3r
 
-<!--
-**Vysp3r/Vysp3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My projects
+- [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) (A simple Wine and Proton-based compatiblity tools manager for GNOME)
 
-Here are some ideas to get you started:
+## Information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at LABPLAS
+- 🌱 I’m currently learning Rust 
+- 📫 I'm currently reachable by email at [contact@vysp3r.com](mailto:contact@vysp3r.com) or by [Telegram](https://t.me/Vysp3r)
+- 🤩 I'm a Fedora, GNOME, Valve and Star Citizen fanboy
+- 🆓 I'm all about FOSS
+- 🖥️ I host most of the services I use
+- 😡 I hate browser based applications
