@@ -1,7 +1,8 @@
 # Vysp3r
 
 ## My projects
-- [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) (A simple Wine and Proton-based compatiblity tools manager for GNOME)
+- [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) (A simple Wine and Proton-based compatibility tools manager)
+- [Markets](https://github.com/Vysp3r/Markets) (A simple stock, currency and cryptocurrency tracker)
 - [vysp3r.com](https://github.com/Vysp3r/vysp3r.com) (My personal website)
 - The Hub (S&Box gamemode)
 
