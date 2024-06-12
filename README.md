@@ -2,7 +2,6 @@
 
 ## My projects
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) (A simple Wine and Proton-based compatibility tools manager)
-- [RetroPlus](https://github.com/Vysp3r/RetroPlus) (A simple ROM downloader)
 - [vysp3r.com](https://github.com/Vysp3r/vysp3r.com) (My personal website)
 
 ## Overview
