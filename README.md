@@ -10,6 +10,6 @@
 - 🖥️ I host most of the services I use
 - 😡 I hate browser based applications
 
-## My projects
+## My noteworthy projects
 - [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) (A simple Wine and Proton-based compatibility tools manager)
 - [vysp3r.com](https://github.com/Vysp3r/vysp3r.com) (My personal website)
