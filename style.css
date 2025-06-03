@@ -1,0 +1,23 @@
+html,
+body,
+main {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+header {
+    margin-bottom: auto;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.content {
+    text-align: center;
+
+    li:not(:last-child) {
+        margin-bottom: 10px;
+    }
+}
