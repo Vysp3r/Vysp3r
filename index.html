@@ -1,51 +1,65 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <link rel="icon" href="favicon.png" />
-    <link rel="apple-touch-icon" type="image/svg" href="favicon.png" />
-    <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Vysp3r</title>
+    <meta name="description" content="About Vysp3r, a FOSS enthusiast and the developer of ProtonPlus.">
+    <meta name="color-scheme" content="light dark">
+    <link rel="canonical" href="https://vysp3r.com/">
+    <link rel="icon" type="image/svg+xml" sizes="any" href="favicon.svg">
+    <link rel="apple-touch-icon" sizes="192x192" href="favicon.png">
+    <link rel="stylesheet" href="style.css">
 </head>
 
-<header></header>
-
 <body>
-    <div class="content">
-        <h1>Vysp3r</h1>
+    <main>
+        <header class="site-header">
+            <img src="favicon.svg" alt="" width="64" height="64">
+            <h1>Vysp3r</h1>
+        </header>
 
-        <div>
-            <h3>About</h3>
+        <section aria-labelledby="about-heading">
+            <h2 id="about-heading">About</h2>
 
-            <ul style="list-style-type: none; padding-left: 0px;">
+            <ul class="about-list" role="list">
                 <li>
-                    📫 I'm reachable by email at
-                    <a href="mailto:dev@vysp3r.com">dev@vysp3r.com</a>
+                    <span aria-hidden="true">📧</span>
+                    <span>I'm reachable by email at <a href="mailto:dev@vysp3r.com">dev@vysp3r.com</a></span>
                 </li>
-                <li>🆓 I'm all about FOSS</li>
-                <li>🖥️ I host most of the services I use</li>
-                <li>😡 I hate browser based applications</li>
+                <li>
+                    <span aria-hidden="true">🐙</span>
+                    <span>Find me on GitHub at <a href="https://github.com/Vysp3r">Vysp3r</a></span>
+                </li>
+                <li>
+                    <span aria-hidden="true">🔓</span>
+                    <span>I'm all about FOSS</span>
+                </li>
+                <li>
+                    <span aria-hidden="true">🖥️</span>
+                    <span>I host most of the services I use</span>
+                </li>
+                <li>
+                    <span aria-hidden="true">🌐</span>
+                    <span>I hate browser-based applications</span>
+                </li>
             </ul>
-        </div>
+        </section>
 
-        <div>
-            <h3>Projects</h3>
+        <section aria-labelledby="projects-heading">
+            <h2 id="projects-heading">Projects</h2>
 
-            <div>
-                <a href="https://protonplus.vysp3r.com/">ProtonPlus</a>
-                <p>A modern compaibility tools manager for Linux.</p>
-            </div>
-
-            <div>
-                <a href="https://github.com/Vysp3r/Beamline">Beamline</a>
-                <p>A simple and modern game launcher.</p>
-            </div>
-        </div>
-    </div>
+            <ul class="project-list" role="list">
+                <li class="project">
+                    <h3><a href="https://protonplus.vysp3r.com/">ProtonPlus</a></h3>
+                    <p>Manage compatibility tools.</p>
+                    <img src="protonplus-preview.webp"
+                        alt="ProtonPlus Tools view above the Steam Games view and Launch Options Editor"
+                        width="1440" height="1219">
+                </li>
+            </ul>
+        </section>
+    </main>
 </body>
-
-<footer></footer>
-
 </html>
